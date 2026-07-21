@@ -1,0 +1,15 @@
+{
+	"name": "amithaspotify-adf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "728a2c1a-09be-4d66-859a-d15ef9867915",
+		"tenantId": "583aa881-49b4-43fc-b3cb-8040c72f44eb"
+	}
+}
